@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <student>
+    <info>
+      <name>Nisa</name>
+      <id>15-3922-3</id>
+      <email>ygy@hh.com</email>
+      <password>123456</password>
+    </info>
+    <info>
+      <name>Faisal</name>
+      <id>15-30911-3</id>
+      <email>faisal@gmail.com</email>
+      <password>123456</password>
+    </info>
+  </student>
+  <teacher>
+    <info>
+      <name>prangon</name>
+      <id>413514735493882</id>
+      <email>asd@gmail.com</email>
+      <password>123456</password>
+    </info>
+  </teacher>
+</users>
